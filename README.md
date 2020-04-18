@@ -37,3 +37,6 @@ http://icondock.com/
 
 ## Landing Page Designs ##
 https://saaslandingpage.com/
+
+## Websotes for Image ##
+https://www.urbanoutfitters.com/
